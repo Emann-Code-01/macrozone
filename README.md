@@ -1,50 +1,77 @@
-# Welcome to your Expo app 👋
+# MacroZone 📱
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A modern, cross-platform mobile application built with Expo and React Native. MacroZone delivers a seamless user experience across iOS, Android, and web platforms with type-safe TypeScript development.
 
-## Get started
+## 🚀 Features
 
-1. Install dependencies
+- **Universal Platform Support**: Runs on iOS, Android, and web
+- **Type-Safe Development**: Built with TypeScript for enhanced code quality
+- **File-Based Routing**: Efficient navigation using Expo Router
+- **Modern Stack**: React Native with Expo framework
 
-   ```bash
-   npm install
-   ```
+## 🛠️ Tech Stack
 
-2. Start the app
+**Languages:** TypeScript, JavaScript  
+**Framework:** Expo, React Native  
+**Runtime:** Node.js
 
-   ```bash
-   npx expo start
-   ```
+## 📋 Prerequisites
 
-In the output, you'll find options to open the app in a
+- Node.js and npm installed
+- Expo CLI (`npm install -g expo-cli`)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🎯 Getting Started
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### 1. Install Dependencies
 
-## Get a fresh project
+```bash
+npm install
+```
 
-When you're ready, run:
+### 2. Start the App
+
+```bash
+npx expo start
+```
+
+### 3. Run on Your Platform
+
+In the Expo CLI output, select your preferred platform:
+
+- **[Development Build](https://docs.expo.dev/develop/development-builds/introduction/)** - Custom development app
+- **[Android Emulator](https://docs.expo.dev/workflow/android-studio-emulator/)** - Android testing environment
+- **[iOS Simulator](https://docs.expo.dev/workflow/ios-simulator/)** - iOS testing environment
+- **[Expo Go](https://expo.dev/go)** - Quick sandbox for app development
+
+## 📝 Development
+
+Edit files in the **app** directory to start developing. This project uses [file-based routing](https://docs.expo.dev/router/introduction) for simplified navigation setup.
+
+### Reset to Fresh Project
+
+When ready for a clean slate:
 
 ```bash
 npm run reset-project
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+This moves starter code to **app-example** and creates a blank **app** directory.
 
-## Learn more
+## 📚 Learn More
 
-To learn more about developing your project with Expo, look at the following resources:
+- **[Expo Documentation](https://docs.expo.dev/)** - Fundamentals and advanced guides
+- **[Learn Expo Tutorial](https://docs.expo.dev/tutorial/introduction/)** - Step-by-step guide for building cross-platform apps
+- **[Expo on GitHub](https://github.com/expo/expo)** - Open source platform
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 🤝 Community
 
-## Join the community
+- **[Discord Community](https://chat.expo.dev)** - Chat with other Expo developers
+- **[Expo GitHub](https://github.com/expo/expo)** - Contribute and explore the platform
 
-Join our community of developers creating universal apps.
+## 📄 License
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+This project is part of the Expo ecosystem.
+
+---
+
+**Happy coding! 🎉**
